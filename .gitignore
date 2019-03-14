@@ -1,0 +1,4 @@
+*.vcxproj
+*.filters
+*.user
+/No_001/.vs

@@ -1,4 +1,7 @@
 *.vcxproj
 *.filters
 *.user
-No_001/
+*.sln
+.vs/
+*.db
+*.suo

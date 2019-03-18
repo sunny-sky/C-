@@ -3,5 +3,3 @@
 *.user
 *.sln
 .vs/
-*.db
-*.suo
